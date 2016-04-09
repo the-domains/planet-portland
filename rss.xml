@@ -4,7 +4,7 @@
         <description><![CDATA[Planet Portland]]></description>
         <link>https://thegrid.ai/planet-portland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 04:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 05:07:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/planet-portland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/planet-portland/8f458e2c-a8fe-45b0-81bc-93b96dc85e05/index.html</link>
             <guid isPermaLink="false">8f458e2c-a8fe-45b0-81bc-93b96dc85e05</guid>
             <pubDate>Sat, 09 Apr 2016 04:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af12b8f-71f9-4895-9349-813123a50301.jpg">]]></description>
-            <link>https://thegrid.ai/planet-portland/35409379-503e-471e-a184-ba2be7c23c20/index.html</link>
-            <guid isPermaLink="false">35409379-503e-471e-a184-ba2be7c23c20</guid>
-            <pubDate>Sat, 09 Apr 2016 04:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
