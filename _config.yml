@@ -1,0 +1,28 @@
+name: Planet Portland
+favicon: null
+layout_spectrum: 0.017540005268529058
+typography_spectrum: 0.1459585304837674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4890592528972775
+  lightness: 0.5068820479791611
+  saturation: 0.21183843235485256
+  rhythmicContrast: 0.5744211983401328
+purpose: []
